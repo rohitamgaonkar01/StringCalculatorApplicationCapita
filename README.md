@@ -1,1 +1,2 @@
 # StringCalculatorApplicationCapita
+StringCalculatorApplication task source code.
